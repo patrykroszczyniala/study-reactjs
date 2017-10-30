@@ -1,4 +1,4 @@
-# study-reactjs
+# study-reactjs (https://www.fullstackreact.com/30-days-of-react)
 
 # Component declaration
 - ES6
